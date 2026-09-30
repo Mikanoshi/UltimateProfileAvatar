@@ -1,0 +1,17 @@
+{
+	"UltimateProfileAvatar": {
+		"PluginName": "Ультимативный Профильный Аватар",
+		"UseLibravatar": "Использовать Libravatar",
+		"UseLibravatar_Desc1": "Загружать аватар с <a target='_blank' rel='noreferrer noopener' href='https://seccdn.libravatar.org/'>Libravatar</a>, используя SHA-256 хэш из источников в следующем порядке",
+		"UseLibravatar_Desc2": "заданный вручную в коде для отслеживания",
+		"UseLibravatar_Desc3": "вычисляемый автоматически из существующего ID пользователя (должен быть e-mail)",
+		"UseLibravatar_Desc4": "Используется безопасный CDN. Gravatar в качестве резервного источника по умолчанию.",
+		"DiceBearFallback": "DiceBear как резервный источник",
+		"DiceBearFallback_Desc": "Загружать детерминированный аватар с <a target='_blank' rel='noreferrer noopener' href='https://www.dicebear.com/'>DiceBear</a>, если Libravatar опция отключена, не найден корректный хэш или указанный e-mail не существует на Libravatar и Gravatar (резервный источник по умолчанию).<br>Отключите данную опцию для передачи управления аватарами другим плагинам, например ProfileAvatar.",
+		"DiceBearCustomURL": "Пользовательский DiceBear URL",
+		"DiceBearCustomURL_Desc": "Возьмите с <a target='_blank' rel='noreferrer noopener' href='https://www.dicebear.com/playground/'>DiceBear Playground</a> из HTTP-API, удалите параметр seed из ссылки.<br>Если не заполнено, то используется анимированный стиль Voxel Art.",
+		"InvalidURL": "Некорректная ссылка",
+		"ShowInVisitsLog": "Показывать в Журнале посещений",
+		"ShowInVisitsLog_Desc": "Вставлять аватар под иконками браузера, устройства, ОС и других."
+	}
+}

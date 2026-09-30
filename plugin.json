@@ -1,0 +1,37 @@
+{
+	"name": "Ultimate Profile Avatar",
+	"description": "Use Libravatar or DiceBear avatar as visitor's profile picture",
+	"version": "1.0.0",
+	"theme": false,
+	"require": {
+        "php": ">=7.2.5",
+        "matomo": ">=5.0.0-stable,<6.0.0-b1"
+	},
+	"authors": [
+		{
+			"name": "Mikanoshi",
+			"email": "iam@mikanoshi.name",
+			"homepage": "https:\/\/mikanoshi.name"
+		}
+	],
+	"donate": {
+      "bitcoin": "1Pa38GjhgRZcSWnN62VhQf2jQ8jhtep1uR"
+    },
+	"support": {
+		"email": "iam@mikanoshi.name",
+		"issues": "https://code.highspec.ru/.../UltimateProfileAvatar/issues",
+		"source": "https://code.highspec.ru/.../UltimateProfileAvatar"
+	},
+	"homepage": "https://code.highspec.ru/.../UltimateProfileAvatar/",
+	"license": "GPL v3+",
+	"keywords": [
+		"libravatar",
+		"gravatar",
+		"dicebear",
+		"avatar",
+		"profile",
+		"user",
+		"picture"
+	],
+	"categories": "integration"
+}

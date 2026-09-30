@@ -1,0 +1,17 @@
+{
+	"UltimateProfileAvatar": {
+		"PluginName": "Ultimate Profile Avatar",
+		"UseLibravatar": "Use Libravatar",
+		"UseLibravatar_Desc1": "Load avatar from <a target='_blank' rel='noreferrer noopener' href='https://seccdn.libravatar.org/'>Libravatar</a> using SHA-256 hash from these sources in order",
+		"UseLibravatar_Desc2": "manually supplied via tracking code",
+		"UseLibravatar_Desc3": "automatically calculated from an existing user id (must be an e-mail)",
+		"UseLibravatar_Desc4": "Secure CDN is used. Gravatar is a default fallback.",
+		"DiceBearFallback": "DiceBear fallback",
+		"DiceBearFallback_Desc": "Load deterministic avatar from <a target='_blank' rel='noreferrer noopener' href='https://www.dicebear.com/'>DiceBear</a> if Libravatar option is disabled, no valid hash was found or no such e-mail exists on Libravatar and Gravatar (default fallback).<br>Disable this option to pass avatar handling to other plugins like ProfileAvatar.",
+		"DiceBearCustomURL": "Custom DiceBear URL",
+		"DiceBearCustomURL_Desc": "Get it on <a target='_blank' rel='noreferrer noopener' href='https://www.dicebear.com/playground/'>DiceBear Playground</a> from HTTP-API, remove seed parameter from URL.<br>Defaults to animated Voxel Art style if empty.",
+		"InvalidURL": "Not a valid URL",
+		"ShowInVisitsLog": "Show in Visits Log",
+		"ShowInVisitsLog_Desc": "Insert avatar below browser, device, OS and other icons."
+	}
+}
