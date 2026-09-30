@@ -4,25 +4,25 @@
 	"version": "1.0.0",
 	"theme": false,
 	"require": {
-        "php": ">=7.2.5",
-        "matomo": ">=5.0.0-stable,<6.0.0-b1"
+		"php": ">=7.2.5",
+		"matomo": ">=5.0.0-stable,<6.0.0-b1"
 	},
 	"authors": [
 		{
 			"name": "Mikanoshi",
 			"email": "iam@mikanoshi.name",
-			"homepage": "https:\/\/mikanoshi.name"
+			"homepage": "https://mikanoshi.name"
 		}
 	],
 	"donate": {
-      "bitcoin": "1Pa38GjhgRZcSWnN62VhQf2jQ8jhtep1uR"
-    },
+		"bitcoin": "1Pa38GjhgRZcSWnN62VhQf2jQ8jhtep1uR"
+	},
 	"support": {
 		"email": "iam@mikanoshi.name",
-		"issues": "https://code.highspec.ru/.../UltimateProfileAvatar/issues",
-		"source": "https://code.highspec.ru/.../UltimateProfileAvatar"
+		"issues": "https://code.highspec.ru/Mikanoshi/UltimateProfileAvatar/issues",
+		"source": "https://code.highspec.ru/Mikanoshi/UltimateProfileAvatar"
 	},
-	"homepage": "https://code.highspec.ru/.../UltimateProfileAvatar/",
+	"homepage": "https://code.highspec.ru/Mikanoshi/UltimateProfileAvatar",
 	"license": "GPL v3+",
 	"keywords": [
 		"libravatar",
@@ -33,5 +33,5 @@
 		"user",
 		"picture"
 	],
-	"categories": "integration"
+	"category": "integration"
 }
