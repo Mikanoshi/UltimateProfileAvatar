@@ -92,7 +92,6 @@ class VisitorDetails extends VisitorDetailsAbstract {
 		$request = Request::fromRequest();
 		$action = $request->getStringParameter('action', '');
 		if ($action !== 'getLastVisitsDetails') return '';
-		// \Piwik\Log::error($action);
 
 		$hash = $visitorDetails->getColumn('libravatar_hash') ?? null;
 		if (empty($hash) || $hash === 'false') $hash = null;
