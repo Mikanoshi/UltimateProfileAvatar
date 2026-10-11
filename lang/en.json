@@ -1,6 +1,7 @@
 {
 	"UltimateProfileAvatar": {
 		"PluginName": "Ultimate Profile Avatar",
+		"PluginDescription": "Use Libravatar or DiceBear avatar as visitor's profile picture",
 		"UseLibravatar": "Use Libravatar",
 		"UseLibravatar_Desc1": "Load avatar from <a target='_blank' rel='noreferrer noopener' href='https://seccdn.libravatar.org/'>Libravatar</a> using SHA-256 hash from these sources in order",
 		"UseLibravatar_Desc2": "manually supplied via tracking code",

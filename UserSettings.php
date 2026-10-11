@@ -1,4 +1,4 @@
-<?
+<?php
 
 namespace Piwik\Plugins\UltimateProfileAvatar;
 

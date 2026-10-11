@@ -1,6 +1,7 @@
 {
 	"UltimateProfileAvatar": {
 		"PluginName": "Ультимативный Профильный Аватар",
+		"PluginDescription": "Использовать Libravatar или DiceBear аватар в качестве картинки профиля посетителя",
 		"UseLibravatar": "Использовать Libravatar",
 		"UseLibravatar_Desc1": "Загружать аватар с <a target='_blank' rel='noreferrer noopener' href='https://seccdn.libravatar.org/'>Libravatar</a>, используя SHA-256 хэш из источников в следующем порядке",
 		"UseLibravatar_Desc2": "заданный вручную в коде для отслеживания",
