@@ -18,5 +18,5 @@ Plugin exposes aforementioned hashes to external avatar services.
 ## Requirements
 
 - Matomo 5.x
-- PHP 7.2.5+
+- PHP 7.1+
 - MySQL 8.0+ or MariaDB 10.6+

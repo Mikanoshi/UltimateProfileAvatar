@@ -50,7 +50,7 @@ class VisitorDetails extends VisitorDetailsAbstract {
 		for ($i = 0; $i <= $maxRedirects; $i++) {
 			$result = null;
 			try {
-				$result = Http::sendHttpRequest($url, 2, null, null, null, false, false, true, 'HEAD');
+				$result = Http::sendHttpRequest($url, 3, null, null, null, false, false, true, 'HEAD');
 			} catch (\Exception $e) {
 				return 0;
 			}
