@@ -9,7 +9,11 @@ Supply SHA-256 hash of the visitor's e-mail address with your tracking requests 
 - in the **visitor profile**
 - in the **visits log**, below browser/device/etc icons (optional)
 
-Plugin also uses hash of a User ID automatically if it's an e-mail.
+Plugin also uses SHA-256 hash of a User ID automatically if it's an e-mail.
+
+## Privacy
+
+Plugin exposes aforementioned hashes to external avatar services.
 
 ## Requirements
 
